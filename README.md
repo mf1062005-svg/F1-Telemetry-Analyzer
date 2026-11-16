@@ -33,18 +33,6 @@ This project represents my first steps towards combining software engineering, d
 | Plotly | Interactive visualizations |
 | Streamlit | Interactive web application |
 
-## 📊 Application Preview
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Telemetry Analysis
-![Telemetry](screenshots/telemetry.png)
-
-### Driver Comparison
-![Comparison](screenshots/comparison.png)
-
-*Replace these image paths with actual screenshots from your application.*
 
 ## ⚙️ Installation
 
@@ -72,13 +60,10 @@ Run the application:
 streamlit run app.py
 ```
 
-*Adjust the entry-point filename if your main application file has a different name.*
-
 ## 🌐 Live Demo
 
-Try the application:
+Try the application:https://f1-telemetry-analyzer-9ubgdakxkn57kuckapprkl.streamlit.app/
 
-**[Launch F1 Telemetry Analyzer](YOUR_STREAMLIT_LINK)**
 
 ## 🔬 Engineering Perspective
 
